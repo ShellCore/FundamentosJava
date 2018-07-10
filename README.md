@@ -12,4 +12,5 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 4. Operadores
 5. Precedencia operadores
 6. Sentencia de Control IF
-7. Calculo del mes (sentencias de control IF 2)
+7. Cálculo del mes (sentencias de control IF 2)
+8. Sentencia de control Switch
