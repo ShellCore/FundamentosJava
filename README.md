@@ -11,3 +11,4 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 3. Manejo de cadenas
 4. Operadores
 5. Precedencia operadores
+6. Sentencia de Control IF
