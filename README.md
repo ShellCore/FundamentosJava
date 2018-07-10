@@ -7,3 +7,4 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 ## Código de ejemplo
 
 1. Hola Mundo
+2. Manejo de variables
