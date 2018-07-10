@@ -10,3 +10,4 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 2. Manejo de variables
 3. Manejo de cadenas
 4. Operadores
+5. Precedencia operadores
