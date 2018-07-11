@@ -24,3 +24,4 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 16. Ejercicio: cálculo del volumen de una caja.
 17. Paso de parámetros por valor
 18. Paso de parámetros por referencia
+19. Return usando tipos primitivos
