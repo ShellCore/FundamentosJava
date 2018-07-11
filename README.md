@@ -20,3 +20,4 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 12. Creación de clases y objetos
 13. Creación de métodos
 14. Constructores
+15. Alcance de variables
