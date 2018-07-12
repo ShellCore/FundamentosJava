@@ -31,3 +31,4 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 23. Encapsulamiento
 24. Contexto estático
 25. Herencia
+26. Sobrecarga de constructores
