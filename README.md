@@ -29,3 +29,4 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 21. Uso de la palabra This
 22. Uso de la palabra Null
 23. Encapsulamiento
+24. Contexto estático
