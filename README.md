@@ -36,3 +36,7 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 28. Manejo de paquetes
 29. Uso de la palabra Final
 30. Arreglos
+31. Matrices
+32. Diseño de clases
+33. Proyecto final
+    - Gestión de órdenes de computadoras
